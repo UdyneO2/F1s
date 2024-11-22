@@ -1,1 +1,1 @@
-mv 'download?id=12h7Aw04BsbJK4pQrayhHLZF9TI09i2F6&export=download&confirm=t&uuid=eb1848fc-a07a-43c5-931b-9aeeef7d09b3' rom.zip
+wget https://ava1.androidfilehost.com/dl/eC97U6B2EF_lIKiqlP9kJw/1732398031/14943124697586335764/Realme_C15_RMX2195_PU_11_OTA_A.27_OTA_%28by_oppostockrom.com%29.zip?
